@@ -1,0 +1,18 @@
+﻿  jeu.cpp
+C:\Users\kenji\Documents\Kenji\Projet GUARDIA\Projet 8 full stack\KATANA\KATANA\jeu.cpp(1301,70): warning C4267: 'argument' : conversion de 'size_t' en '_Ty', perte possible de données
+C:\Users\kenji\Documents\Kenji\Projet GUARDIA\Projet 8 full stack\KATANA\KATANA\jeu.cpp(1301,70): warning C4267:         with
+C:\Users\kenji\Documents\Kenji\Projet GUARDIA\Projet 8 full stack\KATANA\KATANA\jeu.cpp(1301,70): warning C4267:         [
+C:\Users\kenji\Documents\Kenji\Projet GUARDIA\Projet 8 full stack\KATANA\KATANA\jeu.cpp(1301,70): warning C4267:             _Ty=int
+C:\Users\kenji\Documents\Kenji\Projet GUARDIA\Projet 8 full stack\KATANA\KATANA\jeu.cpp(1301,70): warning C4267:         ]
+C:\Users\kenji\Documents\Kenji\Projet GUARDIA\Projet 8 full stack\KATANA\KATANA\jeu.cpp(1391,73): warning C4267: 'argument' : conversion de 'size_t' en '_Ty', perte possible de données
+C:\Users\kenji\Documents\Kenji\Projet GUARDIA\Projet 8 full stack\KATANA\KATANA\jeu.cpp(1391,73): warning C4267:         with
+C:\Users\kenji\Documents\Kenji\Projet GUARDIA\Projet 8 full stack\KATANA\KATANA\jeu.cpp(1391,73): warning C4267:         [
+C:\Users\kenji\Documents\Kenji\Projet GUARDIA\Projet 8 full stack\KATANA\KATANA\jeu.cpp(1391,73): warning C4267:             _Ty=int
+C:\Users\kenji\Documents\Kenji\Projet GUARDIA\Projet 8 full stack\KATANA\KATANA\jeu.cpp(1391,73): warning C4267:         ]
+C:\Users\kenji\Documents\Kenji\Projet GUARDIA\Projet 8 full stack\KATANA\KATANA\jeu.cpp(1705,13): warning C4267: 'initialisation' : conversion de 'size_t' en 'int', perte possible de données
+C:\Users\kenji\Documents\Kenji\Projet GUARDIA\Projet 8 full stack\KATANA\KATANA\jeu.cpp(901): warning C4715: 'typeByName' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\kenji\Documents\Kenji\Projet GUARDIA\Projet 8 full stack\KATANA\KATANA\jeu.cpp(949): warning C4715: 'joueurCiblable' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\kenji\Documents\Kenji\Projet GUARDIA\Projet 8 full stack\KATANA\KATANA\jeu.cpp(994): warning C4715: 'precisionByName' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\kenji\Documents\Kenji\Projet GUARDIA\Projet 8 full stack\KATANA\KATANA\jeu.cpp(1005): warning C4715: 'attaqueByName' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\kenji\Documents\Kenji\Projet GUARDIA\Projet 8 full stack\KATANA\KATANA\jeu.cpp(1325): warning C4715: 'getPosByName' : les chemins de contrôle ne retournent pas tous une valeur
+  KATANA.vcxproj -> C:\Users\kenji\Documents\Kenji\Projet GUARDIA\Projet 8 full stack\KATANA\x64\Debug\KATANA.exe
